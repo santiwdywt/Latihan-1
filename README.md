@@ -1,7 +1,7 @@
 # Heading1
 ## Heading2
 ### Heading3
-Nama saya Santi\
+Nama saya Santy\
 [Google](www.google.com)\
 _Santi Widiyawati_\
 **Santi**\
